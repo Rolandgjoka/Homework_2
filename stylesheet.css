@@ -81,18 +81,15 @@ footer{
     background-color:white;
     margin-top: 5em;
     margin-left: 3em;
-        width: 40%;
-        padding: 1em;
-        float: left;
+    width: 60%;
+    padding: 1em;
+    justify-content: space-around;
         
 }
 .column{
     margin: auto;
 }
 .row3{ 
-   padding: 1em;
-}
-head{
-    position: fixed ;
-    
+   padding: 2em;
+  
 }
